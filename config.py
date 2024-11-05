@@ -1,4 +1,4 @@
-db_name = "contacts"
+db_name = "name of database"
 host = "127.0.0.1"
 user = "postgres"
-password = "qwerty"
+password = "your password"
